@@ -15,6 +15,11 @@ code {
 @import url('https://fonts.googleapis.com/css2?family=RocknRoll+One&display=swap');
 
 
+@media screen and (max-width: 768px) {
+  .container-fluid {
+    width: 100%;
+  }
+
 .nav {
   display: flex;
   overflow: hidden;
