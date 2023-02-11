@@ -15,7 +15,6 @@ code {
 @import url('https://fonts.googleapis.com/css2?family=RocknRoll+One&display=swap');
 
 
-@media screen and (max-width: 768px) {
   
 
 .nav {
@@ -222,4 +221,4 @@ code {
 .signup-container a{
   text-decoration:none;
 }
-}
+
