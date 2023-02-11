@@ -76,14 +76,14 @@ code {
 .content{
   font-family: 'RocknRoll One', sans-serif;
   font-weight:600;
-  font-size: 30px;
+  font-size: 25px;
   line-height: 24px;
   text-size-adjust: 100%;
 }
 
 .hero_title span{
   color:rgb(223,32,32);
-  font-size:55px;
+  font-size:40px;
   font-weight: 600
 }
 
