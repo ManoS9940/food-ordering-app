@@ -30,7 +30,7 @@ code {
 }
 
 .navbar-brand {
-  font-size:55px;
+  font-size:45px;
   display: flex;
 }
 
@@ -76,7 +76,7 @@ code {
 .content{
   font-family: 'RocknRoll One', sans-serif;
   font-weight:600;
-  font-size: 25px;
+  font-size: 20px;
   line-height: 24px;
   text-size-adjust: 100%;
 }
@@ -89,7 +89,7 @@ code {
 
 .hero_title{
   font-family: 'RocknRoll One', sans-serif;
-  font-size: 55px;
+  font-size: 40px;
   font-weight: 600;
   color:rgb(33, 34, 69)
 }
@@ -107,7 +107,7 @@ code {
   color:white;
   border-radius: 5px;
   border:none;
-  font-size: 24px;
+  font-size: 15px;
   width:25%;
   height:fit-content;
 }
