@@ -16,9 +16,7 @@ code {
 
 
 @media screen and (max-width: 768px) {
-  .container-fluid {
-    width: 100%;
-  }
+  
 
 .nav {
   display: flex;
@@ -223,4 +221,5 @@ code {
 
 .signup-container a{
   text-decoration:none;
+}
 }
